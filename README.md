@@ -1,6 +1,6 @@
 # Linguistics Teaching Labs
 
-The organization homepage for two open collections of browser-based linguistics teaching activities:
+The homepage for two open collections of browser-based linguistics teaching activities:
 
 - **[Nature of Language Lab](https://linguistics-teaching-labs.github.io/nature-of-language-lab/)** — 14 evidence-centered modules for general-education linguistics.
 - **[Computational Linguistics Lab](https://linguistics-teaching-labs.github.io/computational-linguistics-lab/)** — 12 transparent, interactive demonstrations of computational methods.
