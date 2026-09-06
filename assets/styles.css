@@ -123,7 +123,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  max-width: 920px;
+  max-width: 1050px;
   margin-bottom: 1rem;
   font-size: clamp(2.4rem, 5vw, 4.2rem);
 }
