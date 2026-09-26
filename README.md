@@ -22,3 +22,7 @@ These projects are designed for instruction and exploratory analysis. Their exam
 
 - Source code is licensed under the [MIT License](LICENSE).
 - Original instructional text is licensed under [CC BY 4.0](LICENSE-CONTENT.md).
+
+## Analytics maintenance
+
+Google Analytics coverage is checked automatically for every HTML page, including new modules. See [analytics checks and missing-tag repairs](docs/analytics.md) for the workflow schedule, repair commands, and verification limits.
